@@ -28,7 +28,7 @@ opencv
 conda env create -f optoSTING.yml
 ```
 
-# Intrusctions
+## Intrusctions
 Please refer to each jupyter notebooks.
 
 ## Data
