@@ -29,7 +29,13 @@ conda env create -f environment.yml
 ```
 
 ## Data
-The full microscopy data can be download [here](https://drive.google.com/drive/folders/1m4pLQ_pYp-zjfy7Oy2QPyup_VmKeb5s4?usp=sharing).
+The original microscopy data was required to run the following notebooks:
+```
+scripts/fig3_cdn_diffusion_prediction.ipynb
+scripts/fig4-1_ifn_gradient.ipynb
+scripts/fig4-2_ifn_diffusion_prediction.ipynb
+```
+which can be download [here](https://drive.google.com/drive/folders/1m4pLQ_pYp-zjfy7Oy2QPyup_VmKeb5s4?usp=sharing).
 
-# License
+## License
 The project is covered under **MIT license**.
